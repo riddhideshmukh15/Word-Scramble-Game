@@ -1,53 +1,75 @@
-# Word Scramble Game 🎮
+# 🎮 Word Scramble Game
 
-A simple Python beginner project where the player has to guess the original word from a scrambled version.
+A simple and fun **Python Word Scramble Game** where the player has to unscramble randomly selected words and guess the correct answer.
 
-## Features
+## ✨ Features
 
-* Randomly selects a word
-* Scrambles the letters
-* Takes the player's guess
-* Checks whether the answer is correct
-* Shows the correct answer if the guess is wrong
+* 🎲 Random word selection
+* 🔀 Scrambles the letters automatically
+* 🎯 3 rounds per game
+* 💯 Score tracking
+* 💡 Optional hints
+* 🏆 Final score display
+* 🔄 Play again option
+* ❌ Shows the correct answer when the guess is wrong
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
+* Random module
 
-## How to Run
+## ▶️ How to Run
 
-1. Download or clone the project.
-2. Open the project folder in VS Code or Command Prompt.
-3. Run:
+1. Make sure Python is installed on your computer.
+2. Download or clone this repository.
+3. Open the project folder in VS Code or Command Prompt.
+4. Run the following command:
 
 ```bash
-python word_scramble.py
+python Word-Scramble-Game.py
 ```
 
-## How to Play
+## 🎮 How to Play
 
 1. The game displays a scrambled word.
-2. Guess the original word.
-3. Enter your answer.
-4. The game tells you whether your answer is correct.
+2. Choose whether you want a hint.
+3. Enter the correct word.
+4. Get **1 point** for every correct answer.
+5. Complete 3 rounds.
+6. Check your final score.
+7. Choose whether you want to play again.
 
-## Example
+## 📌 Example
 
 ```text
-===== WORD SCRAMBLE GAME =====
-Unscramble the word: ntpyoh
+=== WORD SCRAMBLE GAME ===
+You have 3 rounds!
+
+Round 1
+Scrambled word: noythp
+Do you want a hint? (yes/no): yes
+Hint: A programming language
 Enter your answer: python
-Correct! 🎉
+
+Correct! You won!
 ```
 
-## Future Improvements
+## 📚 What I Learned
 
-* Add multiple rounds
-* Add a score system
-* Add hints
-* Add difficulty levels
-* Add a timer
+Through this project, I practiced:
 
-## Author
+* Lists and dictionaries
+* `random.choice()`
+* `random.shuffle()`
+* `for` loops
+* `while` loops
+* `if-else` statements
+* User input
+* Score calculation
+* Basic Python game logic
 
-Riddhi Deshmukh
+## 👩‍💻 Author
+
+**Riddhi Deshmukh**
+
+A beginner Python project created while learning Python programming.
