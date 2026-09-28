@@ -1,6 +1,6 @@
 # 🎮 Word Scramble Game
 
-A simple and fun **Python Word Scramble Game** where the player has to unscramble randomly selected words and guess the correct answer.
+A simple and fun **Python Word Scramble Game** where the player has to unscramble randomly selected words and guess the correct answer .
 
 ## ✨ Features
 
