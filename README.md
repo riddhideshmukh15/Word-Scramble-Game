@@ -72,4 +72,3 @@ Through this project, I practiced:
 
 **Riddhi Deshmukh**
 
-A beginner Python project created while learning Python programming.
